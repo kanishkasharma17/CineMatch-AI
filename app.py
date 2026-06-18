@@ -27,7 +27,7 @@ def clean_title(title):
 # -----------------------------
 # TMDb API Key
 # -----------------------------
-API_KEY = "04b9817484edbf1a6cca1fc1d7776184"
+API_KEY = st.secrets["TMDB_API_KEY"]
 
 # -----------------------------
 # Load datasets
