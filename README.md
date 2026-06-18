@@ -14,6 +14,13 @@ CineMatch AI is an intelligent hybrid movie recommendation system that combines:
 Built using Python, Streamlit, Scikit-Learn and TMDb API.
 
 ---
+## 🚀 Live Demo
+
+👉 https://cinematch-ai-mszsc3ban5nkwiymyhfema.streamlit.app/
+
+## 📂 GitHub Repository
+
+👉 https://github.com/kanishkasharma17/CineMatch-AI
 
 ## Features
 
